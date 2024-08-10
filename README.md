@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Epico 👋😼
 
+🧑🏻‍🎓 Studying Computer Science at [Teesside University](https://www.tees.ac.uk/sections/fulltime/), UK</br> 
+🔭 Working on a sports management web app and learning many technologies to make it come true (Frontend, Backend, Server, Network and etc.)🌱</br>
+🔎 Actively looking for internship opportunities to gain experience in the real world!</br>
+💭 Dreaming BIG</br>
+
+⚡ Fun fact: I grew up in Japan and I speak Japanese, English and Persian
 <!--
-**DrEpico/DrEpico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
