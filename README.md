@@ -1,9 +1,12 @@
 ## Hi there, I'm Epico 👋😼
 
 🧑🏻‍🎓 Studying Computer Science at [Teesside University](https://www.tees.ac.uk/sections/fulltime/), UK</br> 
-🔭 Working on a sports management web app and learning many technologies to make it come true (Frontend, Server-side, Network and etc.)🌱</br>
+🔭 Working on a sports management web app and learning many technologies to make it come true🌱</br>
 🔎 Actively looking for internship opportunities to gain experience in the real world!</br>
-💭 Dreaming BIG</br>
+💭 Dreaming big😼</br>
+
+![DrEpico's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrEpico&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrEpico&theme=dark&layout=compact)
 
 ⚡ Fun fact: I grew up in Japan and I speak Japanese, English and Persian
 <!--
