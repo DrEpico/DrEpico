@@ -1,7 +1,7 @@
 ## Hi there, I'm Epico 👋😼
 
 🧑🏻‍🎓 Studying Computer Science at [Teesside University](https://www.tees.ac.uk/sections/fulltime/), UK</br> 
-🔭 Working on a sports management web app and learning many technologies to make it come true (Frontend, Backend, Server, Network and etc.)🌱</br>
+🔭 Working on a sports management web app and learning many technologies to make it come true (Frontend, Server-side, Network and etc.)🌱</br>
 🔎 Actively looking for internship opportunities to gain experience in the real world!</br>
 💭 Dreaming BIG</br>
 
