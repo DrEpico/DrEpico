@@ -5,7 +5,7 @@
 🔎 Actively looking for internship opportunities to gain experience in the real world!</br>
 💭 Dreaming big😼</br>
 
-![DrEpico's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrEpico&theme=transparent&show_icons=true)
+<!--![DrEpico's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrEpico&theme=transparent&show_icons=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrEpico&theme=dark&layout=compact)
 
 ⚡ Fun fact: I grew up in Japan and I speak Japanese, English and Persian
