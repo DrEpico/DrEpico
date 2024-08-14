@@ -29,7 +29,7 @@
 <!--
 #### Top repos
 FIFALeague Developing API with Java to be used by frontend in React. Bundled and served by Java Spring.
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <!--![DrEpico's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrEpico&theme=transparent&show_icons=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrEpico&theme=transparent&layout=compact)
 ### Contact 📨
