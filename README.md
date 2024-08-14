@@ -28,8 +28,8 @@
 
 <!--
 #### Top repos
-FIFALeague Developing API with Java to be used by frontend in React. Bundled and served by Java Spring.
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![FIFALeague Developing API with Java to be used by frontend in React. Bundled and served by Java Spring](link to repo)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Static Badge](https://img.shields.io/badge/intellijidea-fe2d5d?style=for-the-badge&logo=intellijidea&labelColor=000000)
 <!--![DrEpico's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrEpico&theme=transparent&show_icons=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrEpico&theme=transparent&layout=compact)
 ### Contact 📨
